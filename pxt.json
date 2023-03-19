@@ -1,5 +1,5 @@
 {
-    "name": "05_Tank Sonar Sensor Test #Master",
+    "name": "05_Tank Sonar Sensor Test Slave",
     "description": "",
     "dependencies": {
         "core": "*",
