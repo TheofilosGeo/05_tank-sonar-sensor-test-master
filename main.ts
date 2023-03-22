@@ -1,3 +1,6 @@
+/**
+ * Ο Servo κινητήρας είναι στο S0 του Master
+ */
 input.onButtonPressed(Button.A, function () {
     wuKong.setServoAngle(wuKong.ServoTypeList._360, wuKong.ServoList.S0, 180)
 })
